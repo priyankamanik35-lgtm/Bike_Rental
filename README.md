@@ -10,7 +10,7 @@ This repository contains a complete workflow for analyzing bike rental data and 
 - **Bike_Rental_Data_Analysis_Report.docx**  
   A detailed report summarizing insights from the dataset, including trends by day, hour, and external factors.
 
-- **Bike_Rental_Dashboard.pbix** 
+- **Bike_Rental_Dashboard.pbix**  
   Interactive Power BI dashboard visualizing bike rental trends by day, hour, season, and weather conditions.
 
 - **Rental_by_day.csv**  
