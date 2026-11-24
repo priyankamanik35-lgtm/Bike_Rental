@@ -10,6 +10,9 @@ This repository contains a complete workflow for analyzing bike rental data and 
 - **Bike_Rental_Data_Analysis_Report.docx**  
   A detailed report summarizing insights from the dataset, including trends by day, hour, and external factors.
 
+- **Bike_Rental_Dashboard.pbix** 
+  Interactive Power BI dashboard visualizing bike rental trends by day, hour, season, and weather conditions.
+
 - **Rental_by_day.csv**  
   Dataset containing daily rental counts with relevant features (e.g., weather, season, holidays).
 
@@ -30,7 +33,9 @@ This repository contains a complete workflow for analyzing bike rental data and 
 - **Pandas, NumPy** (data manipulation)
 - **Matplotlib, Seaborn** (visualization)
 - **Scikit-learn** (machine learning models)
-- 
+- **MySQL**
+- **PowerBi**
+  
 ## 📈 Workflow Diagram
 ![Bike Rental Prediction Workflow](https://copilot.microsoft.com/th/id/BCO.6af7cb58-454c-46a2-b00e-9f4a69656038.png)
 ### 📈 Comparison Matrix
